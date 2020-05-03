@@ -8,6 +8,20 @@
   outline: none;
 }
 
+#imgs{
+	z-index: 999;
+	position: fixed;
+	top: 0px;
+	width:100vw;
+	height: 100vh;
+	background-image: url(http://img.zcool.cn/community/0176a058fdbfc8a8012160f7088429.PNG@1280w_1l_2o_100sh.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	background-color: brown;		
+}
+
+
 li {
   float: left;
   list-style: none;
